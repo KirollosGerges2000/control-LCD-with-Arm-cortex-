@@ -1,0 +1,10 @@
+lcd.c:20:6:init_Data_pins	24	static
+lcd.c:46:6:init_command_pins	24	static
+lcd.c:71:6:lcd_command	8	static
+lcd.c:86:6:LCD_Char	8	static
+lcd.c:99:6:LCD_Init	8	static
+lcd.c:114:6:LCD_String	8	static
+lcd.c:124:6:LCD_String_xy	8	static
+lcd.c:134:6:LCD_Clear	8	static
+lcd.c:140:6:lcd_into_string	24	static
+lcd.c:147:6:Delay	0	static
