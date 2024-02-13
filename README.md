@@ -1,0 +1,2 @@
+# control LCD with Arm cortex 
+ In this project, we are going to do the interfacing of a 16x2 LCD display using a Blackpill STM32 F401CC board on the STM32 Cube IDE. STM32 is a microcontroller board based on the ARM-Cortex 32-bit processor. It has a clock speed of up to 84 MHz and various peripherals such as USB, UART, SPI and I2C.It can be used for various projects, from robotics and automation to various IoT applications.
